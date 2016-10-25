@@ -1,1 +1,2 @@
-# dentaljournal
+# Dentaljournalen
+## API-dokumentation
